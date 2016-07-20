@@ -1,0 +1,145 @@
+* {
+    font-family: "Arial narrow";
+}
+
+.container {
+    width: 900px;
+    height: 800px;
+  	margin: 2px;
+}
+
+.top {
+    margin: 2px;
+    width: 711px;
+    height: 210px;
+    float: left;
+    background: url(https://i.ytimg.com/vi/N0hPTsuc89w/maxresdefault.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: "Arial";
+    color: white;
+    padding-left: 20px;
+    padding-top: 150px;
+
+}
+
+.leftcol {
+    margin: 2px;
+    width: 346px;
+    height: 150px;
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e8e8e8;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.rightcol {
+    margin: 2px;
+    width: 320px;
+    height: 150px;
+    color: white;
+    background-color: #660033;
+    padding: 0 0 2px 0;
+    float: left;
+    padding-left: 20px; 
+
+
+}
+
+.leftbot {
+    margin: 2px;
+    width: 172px;
+    height: 300px;
+    float: left;
+    color: white;
+    background: url(http://img11.deviantart.net/0aae/i/2015/115/4/5/scrooge_mcduck_by_kaorimirai-d4x6ml7.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-top: 10px;
+    padding-left: 20px;
+
+
+}
+
+.image {
+    position:relative;
+
+}
+
+.text {
+    left: 0;
+    position:absolute;
+    text-align:left;
+    top: 30px;
+    width: 100%;
+    padding-left: 10px;
+    padding-top: 100px;
+}
+
+.centerbot {
+    margin: 2px;
+    width: 190px;
+    height: 308px;
+    float:left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e8e8e8;
+
+
+
+}
+
+#reboot {
+    padding-left: 20px;
+}
+
+.rightbot {
+    margin: 2px;
+    width: 320px;
+    height: 299px;
+    margin: 2px;
+    float: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #e8e8e8;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+
+
+
+#myDiv img {
+    max-width:100%; 
+    max-height:100%;
+    margin:none;
+    display:block;
+
+}
+
+
+.boxed {
+    border: 1px solid black ;
+    padding: 10px;
+    display: inline-block;
+}
+
+.umpqua {
+    border: 1px solid #4080ff ;
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 45px;
+}
+
+
+
+}
+  
+.byline {
+    font-style: italic;
+  } 
+
+
